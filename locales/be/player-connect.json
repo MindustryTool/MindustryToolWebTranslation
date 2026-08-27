@@ -1,0 +1,20 @@
+{
+  "provider": "Провайдэр падключэння",
+  "room": "Пакой падключэння",
+  "server": "Сервер",
+  "map": "Карта",
+  "created-at": "Створана ў",
+  "player": "Гулец",
+  "version": "Версія",
+  "locale": "Мова/Лакаль",
+  "mods": "Моды",
+  "title": "Злучэнні гульцоў",
+  "search-placeholder": "Пошук імя гульца або IP...",
+  "total-connections": "Усяго злучэнняў",
+  "unique-players": "Унікальных гульцоў",
+  "online-now": "Зараз у сетцы",
+  "player-name": "Імя гульца",
+  "ip-address": "IP-адрас",
+  "first-seen": "Першы візіт",
+  "last-seen": "Апошні візіт"
+}

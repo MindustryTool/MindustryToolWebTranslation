@@ -1,0 +1,10 @@
+{
+  "remove-link-description": "이 게시물의 링크 해제하기",
+  "remove-link": "링크 제거",
+  "link": "위키 링크",
+  "link-description": "위키 페이지를 게시글에 연결합니다.",
+  "path": "경로",
+  "create-description": "새 페이지 만들기",
+  "edit-description": "위키 페이지 수정하기",
+  "delete-description": "이 기록을 삭제하기"
+}

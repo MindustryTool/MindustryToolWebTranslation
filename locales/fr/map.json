@@ -1,0 +1,11 @@
+{
+  "upload-file": "Téléverser un fichier",
+  "reset": "Réinitialiser",
+  "download": "Télécharger les cartes",
+  "installed": "Cartes installées",
+  "install": "Installer la carte",
+  "delete": "Supprimer la carte",
+  "error-empty-file": "Fichier vide",
+  "upload-success": "Téléversement réussi",
+  "error-invalid-file-extension": "Extension de fichier invalide"
+}

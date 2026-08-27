@@ -1,0 +1,20 @@
+{
+  "provider": "Провайдер подключения",
+  "room": "Комната подключения",
+  "server": "Сервер",
+  "map": "Карта",
+  "created-at": "Создано в",
+  "player": "Игрок",
+  "version": "Версия",
+  "locale": "Язык/Локаль",
+  "mods": "Моды",
+  "title": "Подключения игроков",
+  "search-placeholder": "Поиск по имени игрока или IP...",
+  "total-connections": "Всего подключений",
+  "unique-players": "Уникальных игроков",
+  "online-now": "Сейчас в сети",
+  "player-name": "Имя игрока",
+  "ip-address": "IP-адрес",
+  "first-seen": "Впервые виден",
+  "last-seen": "Был в сети"
+}

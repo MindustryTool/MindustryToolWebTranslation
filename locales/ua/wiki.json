@@ -1,0 +1,10 @@
+{
+  "remove-link-description": "Видалити цю публікацію",
+  "remove-link": "Видалити посилання",
+  "link": "Посилання на вікі",
+  "link-description": "Посилає сторінку вікі на публікацію",
+  "path": "Шлях",
+  "create-description": "Створити нову вікі-сторінку",
+  "edit-description": "Редагувати сторінку вікі",
+  "delete-description": "Видалити цей запис"
+}

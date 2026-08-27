@@ -1,0 +1,20 @@
+{
+  "provider": "Verbindungsanbieter",
+  "room": "Verbindungsraum",
+  "server": "Server",
+  "map": "Karte",
+  "created-at": "Erstellt am",
+  "player": "Spieler",
+  "version": "Version",
+  "locale": "Gebietsschema",
+  "mods": "Mods",
+  "title": "Spieler-Verbindungen",
+  "search-placeholder": "Spielername oder IP suchen...",
+  "total-connections": "Verbindungen gesamt",
+  "unique-players": "Eindeutige Spieler",
+  "online-now": "Jetzt online",
+  "player-name": "Spielername",
+  "ip-address": "IP-Adresse",
+  "first-seen": "Zuerst gesehen",
+  "last-seen": "Zuletzt gesehen"
+}

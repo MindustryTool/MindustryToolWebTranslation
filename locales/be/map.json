@@ -1,0 +1,20 @@
+{
+  "upload-file": "Загрузіць файл",
+  "reset": "Скінуць",
+  "download": "Спампаваць карты",
+  "installed": "Усталяваныя карты",
+  "install": "Усталяваць карту",
+  "delete": "Выдаліць карту",
+  "error-empty-file": "Пусты файл",
+  "upload-success": "Загрузка паспяховая",
+  "error-invalid-file-extension": "Недапушчальнае пашырэнне файла",
+  "description": "Апісанне",
+  "create-map": "Стварыць карту",
+  "delete-map": "Выдаліць карту",
+  "update-map": "Абнавіць карту",
+  "no-map": "Няма карт",
+  "maps": "Карты",
+  "width": "Шырыня",
+  "height": "Вышыня",
+  "unverify-map": "Адмяніць праверку карты"
+}

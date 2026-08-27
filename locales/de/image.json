@@ -1,0 +1,14 @@
+{
+  "upload-from-cloud": "Cloud",
+  "upload-from-local": "Lokal",
+  "upload-from-shared": "Geteilte Bibliothek",
+  "upload-fail": "Upload fehlgeschlagen",
+  "update": "Aktualisieren",
+  "create-folder": "Ordner erstellen",
+  "delete-image": "Bild löschen",
+  "update-image": "Bild aktualisieren",
+  "images": "Bilder",
+  "create-image": "Bild erstellen",
+  "no-image": "Keine Bilder gefunden",
+  "image": "Bild"
+}

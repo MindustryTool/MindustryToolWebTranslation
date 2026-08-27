@@ -1,0 +1,20 @@
+{
+  "upload-file": "파일 업로드",
+  "reset": "초기화",
+  "download": "맵 다운로드",
+  "installed": "설치",
+  "install": "맵 설치",
+  "delete": "삭제",
+  "error-empty-file": "파일이 비었습니다.",
+  "upload-success": "업로드에 성공하였습니다.",
+  "error-invalid-file-extension": "유효하지 않은 파일 확장자",
+  "description": "설명",
+  "create-map": "맵 생성",
+  "delete-map": "맵 삭제",
+  "update-map": "맵 업데이트",
+  "no-map": "맵 없음",
+  "maps": "맵",
+  "width": "너비",
+  "height": "높이",
+  "unverify-map": "맵 인증 취소"
+}

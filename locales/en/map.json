@@ -1,0 +1,11 @@
+{
+  "upload-file": "Upload file",
+  "reset": "Reset",
+  "download": "Download maps",
+  "installed": "Installed maps",
+  "install": "Install map",
+  "delete": "Delete map",
+  "error-empty-file": "Empty file",
+  "upload-success": "Upload success",
+  "error-invalid-file-extension": "Invalid file extension"
+}

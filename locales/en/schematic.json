@@ -1,0 +1,14 @@
+{
+  "error-invalid-schematic-data": "Invalid schematic data",
+  "copy-from-clipboard": "Copy from clipboard",
+  "upload-file": "Upload file",
+  "error-empty-clipboard": "Empty clipboard",
+  "power-comsumption": "Power consumption",
+  "reset": "Reset",
+  "upload-success": "Upload success",
+  "error-invalid-file-extension": "Invalid file extension",
+  "requirements": "Requirements",
+  "power-production": "Power production",
+  "error-clipboard-read": "Error reading clipboard, please allow clipboard read permission",
+  "error-empty-file": "Empty file"
+}

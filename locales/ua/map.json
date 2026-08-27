@@ -1,0 +1,20 @@
+{
+  "upload-file": "Завантажити файл",
+  "reset": "Скинути",
+  "download": "Завантажити карти",
+  "installed": "Встановлені карти",
+  "install": "Встановити карту",
+  "delete": "Видалити карту",
+  "error-empty-file": "Порожній файл",
+  "upload-success": "Завантаження успішне",
+  "error-invalid-file-extension": "Недійсне розширення файлу",
+  "description": "Опис",
+  "create-map": "Створити карту",
+  "delete-map": "Видалити карту",
+  "update-map": "Оновити карту",
+  "no-map": "Немає карт",
+  "maps": "Карти",
+  "width": "Ширина",
+  "height": "Висота",
+  "unverify-map": "Скасувати перевірку карти"
+}

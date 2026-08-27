@@ -1,0 +1,8 @@
+{
+  "upload-from-cloud": "Cloud",
+  "upload-from-local": "Local",
+  "upload-from-shared": "Shared library",
+  "upload-fail": "Upload failed",
+  "update": "Update",
+  "create-folder": "Create folder"
+}

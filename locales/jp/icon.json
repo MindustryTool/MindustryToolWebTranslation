@@ -1,0 +1,12 @@
+{
+  "name": "名前",
+  "created-by": "作成者",
+  "url": "URL",
+  "delete": "削除",
+  "group": "グループ",
+  "icons": "アイコン",
+  "icon": "アイコン",
+  "create-icon": "アイコンを作成",
+  "delete-icon": "アイコンを削除",
+  "update-icon": "アイコンを更新"
+}

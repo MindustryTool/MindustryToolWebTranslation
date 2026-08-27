@@ -1,0 +1,14 @@
+{
+  "empty": "空のファイル",
+  "create-new-folder": "フォルダを作成",
+  "create-new-file": "ファイルを作成",
+  "delete": "ファイルを削除",
+  "create": "新しいファイルを作成",
+  "download": "ファイルをダウンロード",
+  "delete-file": "ファイルを削除",
+  "update-file": "ファイルを更新",
+  "create-file": "ファイルを作成",
+  "no-file": "ファイルが見つかりません",
+  "file": "ファイル",
+  "files": "ファイル"
+}

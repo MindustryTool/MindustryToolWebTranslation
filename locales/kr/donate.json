@@ -1,0 +1,21 @@
+{
+  "status": "공장 온라인 · 커뮤니티 후원",
+  "nav": "후원",
+  "title": "공장 가동",
+  "paypal": "PayPal",
+  "paypal-locale": "해외 후원자용",
+  "title-accent": "유지하기",
+  "reason-servers": "호스팅 및 서버 비용",
+  "reason-free": "새로운 도구 및 기능 개선",
+  "sub": "Mindustry Tool은 모든 플레이어에게 무료입니다. 후원은 자율적이며, 전달해주신 금액은 사이트 운영 비용으로 사용됩니다.",
+  "agribank-note": "뱅킹 앱으로 QR 코드를 스캔하여 계좌 이체하세요. 계좌 정보는 이미지에 포함되어 있습니다.",
+  "reason-infrastructure": "데이터베이스 및 백업",
+  "reason-development": "개발 및 유지 보수",
+  "thanks": "Mindustry Tool을 무료 및 오픈 소스로 유지하는 데 도움을 주셔서 감사합니다.",
+  "methods-title": "후원 방법",
+  "best-vietnam": "베트남 지역 추천",
+  "paypal-note": "전 세계 어디서나 PayPal을 통해 후원할 수 있습니다. 결제 정보는 이미지에 표시됩니다.",
+  "agribank": "계좌 이체 (Agribank)",
+  "why-title": "후원이 중요한 이유",
+  "agribank-locale": "베트남 국내 후원자용"
+}

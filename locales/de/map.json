@@ -1,0 +1,20 @@
+{
+  "upload-file": "Datei hochladen",
+  "reset": "Zurücksetzen",
+  "download": "Karten herunterladen",
+  "installed": "Installierte Karten",
+  "install": "Karte installieren",
+  "delete": "Karte löschen",
+  "error-empty-file": "Leere Datei",
+  "upload-success": "Upload erfolgreich",
+  "error-invalid-file-extension": "Ungültige Dateiendung",
+  "description": "Beschreibung",
+  "create-map": "Karte erstellen",
+  "delete-map": "Karte löschen",
+  "update-map": "Karte aktualisieren",
+  "no-map": "Keine Karten vorhanden",
+  "maps": "Karten",
+  "width": "Breite",
+  "height": "Höhe",
+  "unverify-map": "Karten-Verifizierung aufheben"
+}

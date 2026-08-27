@@ -1,0 +1,8 @@
+{
+  "upload-from-cloud": "Cloud",
+  "upload-from-local": "Locale",
+  "upload-from-shared": "Collection partagée",
+  "upload-fail": "Échec du téléversement",
+  "update": "Modifier",
+  "create-folder": "Créer un dossier"
+}

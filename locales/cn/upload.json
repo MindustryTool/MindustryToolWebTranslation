@@ -1,0 +1,12 @@
+{
+  "schematic": "蓝图",
+  "content-patch": "内容补丁",
+  "success": "上传成功",
+  "fail": "上传失败",
+  "map": "地图",
+  "upload-map": "上传地图",
+  "upload-schematic": "上传蓝图",
+  "upload": "上传",
+  "upload-file": "上传文件",
+  "upload-image": "上传图像"
+}

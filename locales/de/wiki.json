@@ -1,0 +1,18 @@
+{
+  "remove-link-description": "Verknüpfung zu diesem Beitrag aufheben",
+  "remove-link": "Link entfernen",
+  "link": "Wiki verknüpfen",
+  "link-description": "Verknüpft eine Wiki-Seite mit einem Beitrag",
+  "path": "Pfad",
+  "create-description": "Neue Wiki-Seite erstellen",
+  "edit-description": "Wiki-Seite bearbeiten",
+  "delete-description": "Diesen Eintrag löschen",
+  "create-wiki": "Wiki-Seite erstellen",
+  "wiki-pages": "Wiki-Seiten",
+  "wiki": "Wiki",
+  "no-wiki": "Keine Wiki-Seiten gefunden",
+  "update-wiki": "Wiki-Seite aktualisieren",
+  "delete-wiki": "Wiki-Seite löschen",
+  "author": "Autor",
+  "created-at": "Erstellt am"
+}

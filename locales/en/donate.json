@@ -1,0 +1,21 @@
+{
+  "status": "Factory online · community funded",
+  "nav": "Donate",
+  "title": "Keep the",
+  "paypal": "PayPal",
+  "paypal-locale": "For international donors",
+  "title-accent": "factory",
+  "reason-servers": "Hosting and server costs",
+  "reason-free": "New tools and improvements",
+  "sub": "Mindustry Tool is free for every player. Donations are optional — anything you give goes toward the real costs of running the site, and none of it is required to keep using it.",
+  "agribank-note": "Scan the QR code with your banking app to make a transfer. The account details are included in the image.",
+  "reason-infrastructure": "Databases and backups",
+  "reason-development": "Development and maintenance",
+  "thanks": "Thank you for keeping Mindustry Tool free and open. Whatever you can give is appreciated.",
+  "methods-title": "How to donate",
+  "best-vietnam": "Best for Vietnam",
+  "paypal-note": "Send a donation through PayPal from anywhere in the world. The payment details are shown in the image.",
+  "agribank": "Bank transfer (Agribank)",
+  "why-title": "Why your support matters",
+  "agribank-locale": "For donors in Vietnam"
+}

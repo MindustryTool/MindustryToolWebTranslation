@@ -1,0 +1,21 @@
+{
+  "status": "工場オンライン · コミュニティ出資",
+  "nav": "寄付",
+  "title": "工場の稼働を",
+  "paypal": "PayPal",
+  "paypal-locale": "国外からの寄付者向け",
+  "title-accent": "維持する",
+  "reason-servers": "ホスティングおよびサーバー費用",
+  "reason-free": "新ツールと改善",
+  "sub": "Mindustry Toolはすべてのプレイヤーに無料です。寄付は任意であり、いただいた寄付はサイトの運営費用に充てられます。",
+  "agribank-note": "銀行アプリでQRコードをスキャンして送金してください。口座詳細は画像に含まれています。",
+  "reason-infrastructure": "データベースとバックアップ",
+  "reason-development": "開発とメンテナンス",
+  "thanks": "Mindustry Toolを無料かつオープンに維持するためのご支援に感謝します。",
+  "methods-title": "寄付方法",
+  "best-vietnam": "ベトナム国内に最適",
+  "paypal-note": "世界中どこからでもPayPal経由で寄付できます。お支払い詳細は画像に表示されます。",
+  "agribank": "銀行振込 (Agribank)",
+  "why-title": "支援が重要である理由",
+  "agribank-locale": "ベトナム国内からの寄付者向け"
+}

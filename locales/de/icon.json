@@ -1,0 +1,12 @@
+{
+  "name": "Name",
+  "created-by": "Erstellt von",
+  "url": "URL",
+  "delete": "Löschen",
+  "group": "Gruppe",
+  "icons": "Icons",
+  "icon": "Icon",
+  "create-icon": "Icon erstellen",
+  "delete-icon": "Icon löschen",
+  "update-icon": "Icon aktualisieren"
+}

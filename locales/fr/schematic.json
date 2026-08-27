@@ -1,0 +1,14 @@
+{
+  "error-invalid-schematic-data": "Données de schéma invalides",
+  "copy-from-clipboard": "Copier depuis le presse-papier",
+  "upload-file": "Téléverser un fichier",
+  "error-empty-clipboard": "Presse-papier vide",
+  "power-comsumption": "Consommation énergétique",
+  "reset": "Réinitialiser",
+  "upload-success": "Téléversement terminé",
+  "error-invalid-file-extension": "Extension de fichier invalide",
+  "requirements": "Prérequis",
+  "power-production": "Production électrique",
+  "error-clipboard-read": "Erreur de lecture du presse-papiers, veuillez autoriser l'accès",
+  "error-empty-file": "Fichier vide"
+}

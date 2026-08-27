@@ -1,0 +1,11 @@
+{
+  "remove": "Entfernen",
+  "data": "Daten",
+  "name": "Name",
+  "type": "Type",
+  "description": "Beschreibung",
+  "delete-content-patch": "Inhaltspatch löschen",
+  "no-content-patch": "Keine Inhaltspatches gefunden",
+  "content-patches": "Inhaltspatches",
+  "upload-content-patch": "Inhaltspatch hochladen"
+}

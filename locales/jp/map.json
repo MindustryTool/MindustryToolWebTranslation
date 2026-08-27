@@ -1,0 +1,20 @@
+{
+  "upload-file": "ファイルをアップロード",
+  "reset": "リセット",
+  "download": "マップをダウンロード",
+  "installed": "インストール済みマップ",
+  "install": "マップをインストール",
+  "delete": "マップを削除",
+  "error-empty-file": "空のファイル",
+  "upload-success": "アップロード成功",
+  "error-invalid-file-extension": "無効なファイル拡張子",
+  "description": "説明",
+  "create-map": "マップを作成",
+  "delete-map": "マップを削除",
+  "update-map": "マップを更新",
+  "no-map": "マップがありません",
+  "maps": "マップ",
+  "width": "幅",
+  "height": "高さ",
+  "unverify-map": "マップの認証を解除"
+}

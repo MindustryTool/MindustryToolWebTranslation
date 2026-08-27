@@ -1,0 +1,14 @@
+{
+  "error-invalid-schematic-data": "Dữ liệu bản thiết kế không hợp lệ",
+  "copy-from-clipboard": "Sao chép từ bộ nhớ tạm",
+  "upload-file": "Tải tệp lên",
+  "error-empty-clipboard": "Bộ nhớ tạm trống",
+  "power-comsumption": "Mức tiêu thụ năng lượng",
+  "reset": "Đặt lại",
+  "upload-success": "Tải lên thành công",
+  "error-invalid-file-extension": "Định dạng tệp không hợp lệ",
+  "requirements": "Yêu cầu",
+  "power-production": "Sản xuất năng lượng",
+  "error-clipboard-read": "Không thể đọc bộ nhớ tạm, vui lòng cho phép quyền truy cập",
+  "error-empty-file": "Tệp trống"
+}

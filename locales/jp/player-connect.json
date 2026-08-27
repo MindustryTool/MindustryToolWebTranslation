@@ -1,0 +1,20 @@
+{
+  "provider": "接続プロバイダー",
+  "room": "接続ルーム",
+  "server": "サーバー",
+  "map": "マップ",
+  "created-at": "作成日時",
+  "player": "プレイヤー",
+  "version": "バージョン",
+  "locale": "ロケール",
+  "mods": "Mod",
+  "title": "プレイヤー接続",
+  "search-placeholder": "プレイヤー名またはIPを検索...",
+  "total-connections": "総接続数",
+  "unique-players": "ユニークプレイヤー",
+  "online-now": "現在オンライン",
+  "player-name": "プレイヤー名",
+  "ip-address": "IPアドレス",
+  "first-seen": "初回接続",
+  "last-seen": "最終接続"
+}

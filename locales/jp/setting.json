@@ -1,0 +1,12 @@
+{
+  "username": "ユーザー名",
+  "username-note": "サイト上の表示名を更新します。",
+  "note": "these settings affect how tags are displayed across the app.",
+  "show-tag-number": "タグ番号を表示",
+  "show-tag-name": "タグ名を表示",
+  "settings": "設定",
+  "language": "言語",
+  "theme": "テーマ",
+  "light": "ライト",
+  "dark": "ダーク"
+}

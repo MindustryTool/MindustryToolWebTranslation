@@ -1,0 +1,10 @@
+{
+  "installed": "インストール済みMod",
+  "download": "Modをダウンロード",
+  "install": "Modをインストール",
+  "delete": "Modを削除",
+  "mods": "Mod",
+  "create-mod": "Modを作成",
+  "delete-mod": "Modを削除",
+  "update-mod": "Modを更新"
+}
