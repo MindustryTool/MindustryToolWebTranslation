@@ -245,5 +245,6 @@
   "source": "출처",
   "ban": "차단",
   "kick": "추방",
-  "download_count_desc": "다운로드 수"
+  "download_count_desc": "다운로드 수",
+  "about-description": "MindustryTool은 Mindustry 커뮤니티를 위한 올인원 플랫폼으로, Mindustry 콘텐츠의 제작, 관리 및 공유를 더욱 쉽게 만들어 주는 도구와 리소스를 제공합니다. 설계도 공유, 모드 제작 도구, 프로젝트 편집기, 서버 관리, 맵 등 플레이어와 개발자 모두를 위해 설계된 다양한 유틸리티 기능이 포함되어 있습니다."
 }

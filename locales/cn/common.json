@@ -245,5 +245,6 @@
   "source": "源码",
   "ban": "封禁",
   "kick": "踢出",
-  "download_count_desc": "下载次数"
+  "download_count_desc": "下载次数",
+  "about-description": "MindustryTool 是面向 Mindustry 社区的一体化平台，提供便捷的工具和资源，帮助用户更轻松地创建、管理和分享 Mindustry 内容。它包含蓝图分享、模组工具、项目编辑器、服务器管理、地图以及专为玩家和开发者设计的其他实用功能。"
 }

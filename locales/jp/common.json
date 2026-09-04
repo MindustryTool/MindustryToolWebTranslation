@@ -245,5 +245,6 @@
   "source": "ソース",
   "ban": "BAN",
   "kick": "キック",
-  "download_count_desc": "ダウンロード数"
+  "download_count_desc": "ダウンロード数",
+  "about-description": "MindustryToolは、Mindustryコミュニティ向けのオールインワン・プラットフォームです。Mindustryコンテンツの作成、管理、共有を容易にするツールとリソースを提供します。設計図の共有、MOD作成ツール、プロジェクトエディタ、サーバー管理、マップなど、プレイヤーと開発者の両方に向けて設計された様々なユーティリティが含まれています。"
 }

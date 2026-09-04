@@ -245,5 +245,6 @@
   "source": "Quellcode",
   "ban": "Sperren",
   "kick": "Hinauswerfen",
-  "download_count_desc": "Anzahl der Downloads"
+  "download_count_desc": "Anzahl der Downloads",
+  "about-description": "MindustryTool ist eine All-in-One-Plattform für die Mindustry-Community, die Werkzeuge und Ressourcen bereitstellt, um das Erstellen, Verwalten und Teilen von Mindustry-Inhalten zu erleichtern. Sie umfasst Funktionen wie das Teilen von Schaltplänen, Modding-Tools, Projekt-Editoren, Serververwaltung, Karten und weitere Dienstprogramme für Spieler und Entwickler."
 }
