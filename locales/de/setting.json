@@ -3,10 +3,5 @@
   "username-note": "Aktualisiert Ihren Anzeigenamen auf der Website.",
   "note": "Diese Einstellungen beeinflussen, wie Tags in der App angezeigt werden.",
   "show-tag-number": "Tag-Nummer anzeigen",
-  "show-tag-name": "Tag-Namen anzeigen",
-  "settings": "Einstellungen",
-  "language": "Sprache",
-  "theme": "Design",
-  "light": "Hell",
-  "dark": "Dunkel"
+  "show-tag-name": "Tag-Namen anzeigen"
 }

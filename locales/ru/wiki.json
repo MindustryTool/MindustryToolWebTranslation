@@ -6,13 +6,5 @@
   "path": "Путь",
   "create-description": "Создать новую страницу Вики",
   "edit-description": "Редактировать страницу Вики",
-  "delete-description": "Удалить эту запись",
-  "create-wiki": "Создать страницу Вики",
-  "wiki-pages": "Страницы Вики",
-  "wiki": "Вики",
-  "no-wiki": "Страницы Вики не найдены",
-  "update-wiki": "Обновить страницу Вики",
-  "delete-wiki": "Удалить страницу Вики",
-  "author": "Автор",
-  "created-at": "Создано"
+  "delete-description": "Удалить эту запись"
 }

@@ -4,5 +4,11 @@
   "create-new-file": "Buat berkas",
   "delete": "Hapus berkas",
   "create": "Buat berkas baru",
-  "download": "Unduh berkas"
+  "download": "Unduh berkas",
+  "edit": "Sunting berkas",
+  "save": "Simpan perubahan",
+  "saving": "Menyimpan...",
+  "cancel": "Batal",
+  "saved": "File berhasil disimpan",
+  "save-error": "Gagal menyimpan file"
 }

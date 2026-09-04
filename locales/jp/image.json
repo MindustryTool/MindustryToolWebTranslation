@@ -4,11 +4,5 @@
   "upload-from-shared": "共有ライブラリ",
   "upload-fail": "アップロード失敗",
   "update": "更新",
-  "create-folder": "フォルダを作成",
-  "delete-image": "画像を削除",
-  "update-image": "画像を更新",
-  "images": "画像",
-  "create-image": "画像を作成",
-  "no-image": "画像が見つかりません",
-  "image": "画像"
+  "create-folder": "フォルダを作成"
 }

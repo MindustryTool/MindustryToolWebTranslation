@@ -3,10 +3,5 @@
   "username-note": "更新您在网站上的显示名称。",
   "note": "这些设置会影响全站标签的显示方式。",
   "show-tag-number": "显示标签数量",
-  "show-tag-name": "显示标签名称",
-  "settings": "设置",
-  "language": "语言",
-  "theme": "主题",
-  "light": "浅色",
-  "dark": "深色"
+  "show-tag-name": "显示标签名称"
 }

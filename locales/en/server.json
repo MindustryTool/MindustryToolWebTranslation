@@ -85,5 +85,13 @@
   "updated": "Server updated",
   "login-info": "Login to the server with the following information",
   "login-success": "Login success, You can close this tab now",
-  "restart-required": "Restart Required"
+  "restart-required": "Restart Required",
+  "recent-players": "Recent Players",
+  "kicked-ips": "Kicked IPs",
+  "player-registry": "All Players",
+  "no-recent-players": "No recent players",
+  "no-recent-players-desc": "No players have joined this server in the last 30 minutes.",
+  "no-kicked-ips": "No kicked IPs",
+  "no-kicked-ips-desc": "There are currently no active IP kicks on this server.",
+  "remove-kick": "Remove Kick"
 }

@@ -7,7 +7,7 @@
   "image-logic-generator-description": "Generiert einen Bauplan mit Logikblöcken und Displays zur Anzeige des Bildes",
   "upload-image-desc": "Lade ein Bild hoch, um anzufangen!",
   "schematic-output": "Bauplan-Ausgabe",
-  "block": "Block",
+  "block": "Baublock",
   "generate": "Generieren",
   "canvas-preview": "Leinwand-Vorschau",
   "upload-image": "Bild hochladen",

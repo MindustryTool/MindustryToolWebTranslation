@@ -6,13 +6,5 @@
   "path": "Шлях",
   "create-description": "Стварыць новую старонку Вікі",
   "edit-description": "Рэдагаваць старонку Вікі",
-  "delete-description": "Выдаліць гэты запіс",
-  "create-wiki": "Стварыць старонку Вікі",
-  "wiki-pages": "Старонкі Вікі",
-  "wiki": "Вікі",
-  "no-wiki": "Старонкі Вікі не знойдзены",
-  "update-wiki": "Абнавіць старонку Вікі",
-  "delete-wiki": "Выдаліць старонку Вікі",
-  "author": "Аўтар",
-  "created-at": "Створана"
+  "delete-description": "Выдаліць гэты запіс"
 }

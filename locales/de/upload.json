@@ -3,10 +3,5 @@
   "content-patch": "Inhaltspatch",
   "success": "Upload erfolgreich",
   "fail": "Upload fehlgeschlagen",
-  "map": "Karte",
-  "upload-map": "Karte hochladen",
-  "upload-schematic": "Bauplan hochladen",
-  "upload": "Hochladen",
-  "upload-file": "Datei hochladen",
-  "upload-image": "Bild hochladen"
+  "map": "Karte"
 }

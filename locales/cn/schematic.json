@@ -10,17 +10,5 @@
   "requirements": "所需材料",
   "power-production": "发电量",
   "error-clipboard-read": "读取剪贴板错误，请允许剪贴板读取权限",
-  "error-empty-file": "空文件",
-  "schematics": "蓝图",
-  "create-schematic": "创建蓝图",
-  "delete-schematic": "删除蓝图",
-  "update-schematic": "更新蓝图",
-  "no-schematic": "未找到蓝图",
-  "tags": "标签",
-  "author": "作者",
-  "created-at": "创建时间",
-  "updated-at": "更新时间",
-  "description": "描述",
-  "unverify-schematic": "取消蓝图认证",
-  "verify-schematic": "认证蓝图"
+  "error-empty-file": "空文件"
 }

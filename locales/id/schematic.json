@@ -10,17 +10,5 @@
   "requirements": "Persyaratan",
   "power-production": "Produksi tenaga",
   "error-clipboard-read": "Gagal membaca papan klip, berikan izin akses papan klip",
-  "error-empty-file": "Berkas kosong",
-  "schematics": "Skema",
-  "create-schematic": "Buat skema",
-  "delete-schematic": "Hapus skema",
-  "update-schematic": "Perbarui skema",
-  "no-schematic": "Skema tidak ditemukan",
-  "tags": "Tag",
-  "author": "Penulis",
-  "created-at": "Dibuat pada",
-  "updated-at": "Diperbarui pada",
-  "description": "Deskripsi",
-  "unverify-schematic": "Batal verifikasi skema",
-  "verify-schematic": "Verifikasi skema"
+  "error-empty-file": "Berkas kosong"
 }

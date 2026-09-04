@@ -4,7 +4,7 @@
   "summary": "Zusammenfassung",
   "cover": "Titelbild",
   "language": "Sprache",
-  "status": "Status",
+  "status": "Status der Veröffentlichung",
   "status-PUBLISHED": "Veröffentlicht",
   "select-cover": "Titelbild auswählen",
   "submitting": "Wird gesendet...",
@@ -12,16 +12,5 @@
   "browse-post": "Beitrag durchsuchen",
   "report": "Melden",
   "status-ARCHIVED": "Archiviert",
-  "status-DRAFT": "Entwurf",
-  "create-post": "Beitrag erstellen",
-  "posts": "Beiträge",
-  "no-post": "Keine Beiträge gefunden",
-  "delete-post": "Beitrag löschen",
-  "update-post": "Beitrag aktualisieren",
-  "content": "Inhalt",
-  "author": "Autor",
-  "created-at": "Erstellt am",
-  "updated-at": "Aktualisiert am",
-  "comments": "Kommentare",
-  "tags": "Tags"
+  "status-DRAFT": "Entwurf"
 }

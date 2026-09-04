@@ -4,11 +4,5 @@
   "upload-from-shared": "分享库",
   "upload-fail": "上传失败",
   "update": "更新",
-  "create-folder": "创建文件夹",
-  "delete-image": "删除图像",
-  "update-image": "更新图像",
-  "images": "图像",
-  "create-image": "创建图像",
-  "no-image": "未找到图像",
-  "image": "图像"
+  "create-folder": "创建文件夹"
 }

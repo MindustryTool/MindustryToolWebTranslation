@@ -1,8 +1,5 @@
 {
   "clear-translation-cache": "Bersihkan cache terjemahan",
   "restore-key": "Pulihkan",
-  "delete-key": "Hapus",
-  "translation-management": "Manajemen Terjemahan",
-  "translation-management-description": "Kelola dan edit terjemahan di berbagai bahasa",
-  "translation": "Terjemahan"
+  "delete-key": "Hapus"
 }

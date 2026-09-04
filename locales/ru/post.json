@@ -12,16 +12,5 @@
   "browse-post": "Просмотр поста",
   "report": "Пожаловаться",
   "status-ARCHIVED": "В архиве",
-  "status-DRAFT": "Черновик",
-  "create-post": "Создать пост",
-  "posts": "Посты",
-  "no-post": "Посты не найдены",
-  "delete-post": "Удалить пост",
-  "update-post": "Обновить пост",
-  "content": "Содержимое",
-  "author": "Автор",
-  "created-at": "Создано",
-  "updated-at": "Обновлено",
-  "comments": "Комментарии",
-  "tags": "Теги"
+  "status-DRAFT": "Черновик"
 }

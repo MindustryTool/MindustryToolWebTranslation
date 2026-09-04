@@ -2,9 +2,5 @@
   "login-to-mindustry": "Вход в Mindustry",
   "return-to-app": "Вернуться в приложение",
   "bad-login-link": "Некорректная ссылка входа",
-  "login-success": "Вход успешен, вы можете закрыть эту вкладку",
-  "sign-in-github": "Войти через GitHub",
-  "sign-in-discord": "Войти через Discord",
-  "login": "Вход",
-  "welcome-back": "С возвращением"
+  "login-success": "Вход успешен, вы можете закрыть эту вкладку"
 }

@@ -3,10 +3,5 @@
   "username-note": "Memperbarui nama tampilan Anda di situs.",
   "note": "Pengaturan ini memengaruhi cara tag ditampilkan di aplikasi.",
   "show-tag-number": "Tampilkan nomor tag",
-  "show-tag-name": "Tampilkan nama tag",
-  "settings": "Pengaturan",
-  "language": "Bahasa",
-  "theme": "Tema",
-  "light": "Terang",
-  "dark": "Gelap"
+  "show-tag-name": "Tampilkan nama tag"
 }

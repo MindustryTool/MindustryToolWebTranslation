@@ -12,16 +12,5 @@
   "browse-post": "Прагляд допісу",
   "report": "Паскардзіцца",
   "status-ARCHIVED": "У архіве",
-  "status-DRAFT": "Чарнавік",
-  "create-post": "Стварыць допіс",
-  "posts": "Допісы",
-  "no-post": "Допісы не знойдзены",
-  "delete-post": "Выдаліць допіс",
-  "update-post": "Абнавіць допіс",
-  "content": "Змест",
-  "author": "Аўтар",
-  "created-at": "Створана",
-  "updated-at": "Абноўлена",
-  "comments": "Каментарыі",
-  "tags": "Цэгі"
+  "status-DRAFT": "Чарнавік"
 }

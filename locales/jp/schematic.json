@@ -10,17 +10,5 @@
   "requirements": "必要素材",
   "power-production": "発電量",
   "error-clipboard-read": "クリップボードの読み取りエラー。権限を許可してください",
-  "error-empty-file": "空のファイル",
-  "schematics": "設計図",
-  "create-schematic": "設計図を作成",
-  "delete-schematic": "設計図を削除",
-  "update-schematic": "設計図を更新",
-  "no-schematic": "設計図が見つかりません",
-  "tags": "タグ",
-  "author": "作者",
-  "created-at": "作成日時",
-  "updated-at": "更新日時",
-  "description": "説明",
-  "unverify-schematic": "設計図の認証を解除",
-  "verify-schematic": "設計図を認証"
+  "error-empty-file": "空のファイル"
 }

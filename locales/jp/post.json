@@ -12,16 +12,5 @@
   "browse-post": "投稿を閲覧",
   "report": "通報",
   "status-ARCHIVED": "アーカイブ済み",
-  "status-DRAFT": "下書き",
-  "create-post": "投稿を作成",
-  "posts": "投稿",
-  "no-post": "投稿が見つかりません",
-  "delete-post": "投稿を削除",
-  "update-post": "投稿を更新",
-  "content": "内容",
-  "author": "作者",
-  "created-at": "作成日時",
-  "updated-at": "更新日時",
-  "comments": "コメント",
-  "tags": "タグ"
+  "status-DRAFT": "下書き"
 }

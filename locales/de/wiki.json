@@ -6,13 +6,5 @@
   "path": "Pfad",
   "create-description": "Neue Wiki-Seite erstellen",
   "edit-description": "Wiki-Seite bearbeiten",
-  "delete-description": "Diesen Eintrag löschen",
-  "create-wiki": "Wiki-Seite erstellen",
-  "wiki-pages": "Wiki-Seiten",
-  "wiki": "Wiki",
-  "no-wiki": "Keine Wiki-Seiten gefunden",
-  "update-wiki": "Wiki-Seite aktualisieren",
-  "delete-wiki": "Wiki-Seite löschen",
-  "author": "Autor",
-  "created-at": "Erstellt am"
+  "delete-description": "Diesen Eintrag löschen"
 }

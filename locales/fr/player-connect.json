@@ -5,7 +5,7 @@
   "map": "Carte",
   "created-at": "Créé à",
   "player": "Joueur",
-  "version": "Version",
+  "version": "Version du jeu",
   "locale": "Langue",
-  "mods": "Mods"
+  "mods": "Mods installés"
 }

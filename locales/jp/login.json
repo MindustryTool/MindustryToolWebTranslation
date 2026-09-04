@@ -2,9 +2,5 @@
   "login-to-mindustry": "Mindustryにログイン",
   "return-to-app": "アプリに戻る",
   "bad-login-link": "無効なログインリンク",
-  "login-success": "ログイン成功。このタブを閉じても構いません",
-  "sign-in-github": "GitHubでサインイン",
-  "sign-in-discord": "Discordでサインイン",
-  "login": "ログイン",
-  "welcome-back": "おかえりなさい"
+  "login-success": "ログイン成功。このタブを閉じても構いません"
 }

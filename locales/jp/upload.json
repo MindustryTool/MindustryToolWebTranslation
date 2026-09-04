@@ -3,10 +3,5 @@
   "content-patch": "コンテンツパッチ",
   "success": "アップロード成功",
   "fail": "アップロード失敗",
-  "map": "マップ",
-  "upload-map": "マップをアップロード",
-  "upload-schematic": "設計図をアップロード",
-  "upload": "アップロード",
-  "upload-file": "ファイルをアップロード",
-  "upload-image": "画像をアップロード"
+  "map": "マップ"
 }

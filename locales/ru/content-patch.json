@@ -3,9 +3,5 @@
   "data": "Данные",
   "name": "Название",
   "type": "Type",
-  "description": "Описание",
-  "delete-content-patch": "Удалить патч контента",
-  "no-content-patch": "Патчи контента не найдены",
-  "content-patches": "Патчи контента",
-  "upload-content-patch": "Загрузить патч контента"
+  "description": "Описание"
 }

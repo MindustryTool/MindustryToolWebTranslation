@@ -1,5 +1,5 @@
 {
-  "total-blocks": "Total",
+  "total-blocks": "Nombre total",
   "deselect-all": "Tout désélectionner",
   "height": "Longueur",
   "copy": "Copier",
@@ -20,7 +20,7 @@
   "upload-image": "Téléverser une image",
   "select-materials": "Sélectionner les matériaux",
   "drag-image": "Déposez l'image ici ou cliquez",
-  "dithering": "Tramage",
+  "dithering": "Tramage (Dithering)",
   "block-size": "Taille des blocs",
   "settings": "Paramètres",
   "image-preview": "Aperçu d'image",
@@ -40,5 +40,5 @@
   "output-info": "Informations de sortie",
   "file-size": "Taille",
   "width": "Largeur",
-  "original-size": "Original"
+  "original-size": "Taille initiale"
 }

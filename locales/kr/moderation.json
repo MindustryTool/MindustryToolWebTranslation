@@ -1,6 +1,4 @@
 {
   "comment": "댓글 중재",
-  "action": "작업 중재",
-  "moderation": "중재/모더레이션",
-  "report": "신고"
+  "action": "작업 중재"
 }

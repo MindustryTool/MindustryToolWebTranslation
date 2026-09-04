@@ -1,7 +1,7 @@
 {
   "provider": "Penyedia koneksi pemain",
   "room": "Ruangan penghubung pemain",
-  "server": "Server",
+  "server": "Nama Peladen",
   "map": "Peta",
   "created-at": "Dibuat di",
   "player": "Pemain",

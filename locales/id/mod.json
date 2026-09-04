@@ -2,9 +2,5 @@
   "installed": "Mod terpasang",
   "download": "Unduh mod",
   "install": "Instal mod",
-  "delete": "Hapus mod",
-  "mods": "Mod",
-  "create-mod": "Buat mod",
-  "delete-mod": "Hapus mod",
-  "update-mod": "Perbarui mod"
+  "delete": "Hapus mod"
 }

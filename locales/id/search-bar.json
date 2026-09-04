@@ -1,8 +1,5 @@
 {
-  "tag": "Tag",
+  "tag": "Label Tag",
   "author": "Penulis",
-  "name": "Nama",
-  "place-holder": "Cari...",
-  "all": "Semua",
-  "clear": "Bersihkan"
+  "name": "Nama"
 }

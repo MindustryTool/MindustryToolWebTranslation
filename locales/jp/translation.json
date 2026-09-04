@@ -1,8 +1,5 @@
 {
   "clear-translation-cache": "翻訳キャッシュをクリア",
   "restore-key": "復元",
-  "delete-key": "削除",
-  "translation-management": "翻訳管理",
-  "translation-management-description": "多言語の翻訳を管理・編集します",
-  "translation": "翻訳"
+  "delete-key": "削除"
 }

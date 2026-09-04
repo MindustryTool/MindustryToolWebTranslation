@@ -7,14 +7,5 @@
   "player": "Гравець",
   "version": "Версія",
   "locale": "Мова/Локаль",
-  "mods": "Моди",
-  "title": "Підключення гравців",
-  "search-placeholder": "Пошук імені гравця або IP...",
-  "total-connections": "Усього підключень",
-  "unique-players": "Унікальних гравців",
-  "online-now": "Зараз у мережі",
-  "player-name": "Ім'я гравця",
-  "ip-address": "IP-адреса",
-  "first-seen": "Уперше помічений",
-  "last-seen": "Востаннє помічений"
+  "mods": "Моди"
 }

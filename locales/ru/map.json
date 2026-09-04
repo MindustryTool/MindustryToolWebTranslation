@@ -7,14 +7,5 @@
   "delete": "Удалить карту",
   "error-empty-file": "Пустой файл",
   "upload-success": "Загрузка успешна",
-  "error-invalid-file-extension": "Недопустимое расширение файла",
-  "description": "Описание",
-  "create-map": "Создать карту",
-  "delete-map": "Удалить карту",
-  "update-map": "Обновить карту",
-  "no-map": "Нет карт",
-  "maps": "Карты",
-  "width": "Ширина",
-  "height": "Высота",
-  "unverify-map": "Отменить проверку карты"
+  "error-invalid-file-extension": "Недопустимое расширение файла"
 }

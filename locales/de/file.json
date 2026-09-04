@@ -5,10 +5,10 @@
   "delete": "Datei löschen",
   "create": "Neue Datei erstellen",
   "download": "Datei herunterladen",
-  "delete-file": "Datei löschen",
-  "update-file": "Datei aktualisieren",
-  "create-file": "Datei erstellen",
-  "no-file": "Keine Dateien gefunden",
-  "file": "Datei",
-  "files": "Dateien"
+  "edit": "Datei bearbeiten",
+  "save": "Änderungen speichern",
+  "saving": "Wird gespeichert...",
+  "cancel": "Abbrechen",
+  "saved": "Datei erfolgreich gespeichert",
+  "save-error": "Fehler beim Speichern der Datei"
 }

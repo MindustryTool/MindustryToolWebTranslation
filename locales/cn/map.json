@@ -7,14 +7,5 @@
   "delete": "删除地图",
   "error-empty-file": "空文件",
   "upload-success": "上传成功",
-  "error-invalid-file-extension": "文件拓展名无效",
-  "description": "描述",
-  "create-map": "创建地图",
-  "delete-map": "删除地图",
-  "update-map": "更新地图",
-  "no-map": "未找到地图",
-  "maps": "地图",
-  "width": "宽度",
-  "height": "高度",
-  "unverify-map": "取消地图认证"
+  "error-invalid-file-extension": "文件拓展名无效"
 }

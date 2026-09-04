@@ -1,8 +1,5 @@
 {
   "clear-translation-cache": "Übersetzungscache leeren",
   "restore-key": "Wiederherstellen",
-  "delete-key": "Löschen",
-  "translation-management": "Übersetzungsverwaltung",
-  "translation-management-description": "Übersetzungen über Sprachen hinweg verwalten und bearbeiten",
-  "translation": "Übersetzung"
+  "delete-key": "Löschen"
 }

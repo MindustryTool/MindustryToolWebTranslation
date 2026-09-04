@@ -3,9 +3,5 @@
   "data": "Даныя",
   "name": "Назва",
   "type": "Type",
-  "description": "Апісанне",
-  "delete-content-patch": "Выдаліць патч кантэнту",
-  "no-content-patch": "Патчы кантэнту не знойдзены",
-  "content-patches": "Патчы кантэнту",
-  "upload-content-patch": "Загрузіць патч кантэнту"
+  "description": "Апісанне"
 }

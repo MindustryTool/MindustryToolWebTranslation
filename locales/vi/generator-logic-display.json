@@ -41,7 +41,7 @@
   "blocks": "khối",
   "height": "Chiều cao",
   "processors": "bộ xử lý",
-  "logic-blocks": "Logic",
+  "logic-blocks": "Khối Logic",
   "error-process": "Lỗi khi xử lý hình ảnh",
   "bezel-compensation": "Bù khoảng cách viền",
   "ignore-border-desc": "Bù đắp cho viền màn hình trong thiết lập nhiều màn hình",

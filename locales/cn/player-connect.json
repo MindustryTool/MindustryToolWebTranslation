@@ -7,14 +7,5 @@
   "player": "玩家",
   "version": "版本",
   "locale": "语言区域",
-  "mods": "模组",
-  "title": "玩家连接",
-  "search-placeholder": "搜索玩家名称或 IP...",
-  "total-connections": "总连接数",
-  "unique-players": "独立玩家数",
-  "online-now": "当前在线",
-  "player-name": "玩家名称",
-  "ip-address": "IP 地址",
-  "first-seen": "首次出现",
-  "last-seen": "最近出现"
+  "mods": "模组"
 }

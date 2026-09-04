@@ -1,8 +1,5 @@
 {
   "tag": "タグ",
   "author": "作者",
-  "name": "名前",
-  "place-holder": "検索...",
-  "all": "すべて",
-  "clear": "クリア"
+  "name": "名前"
 }

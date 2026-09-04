@@ -3,9 +3,5 @@
   "data": "数据",
   "name": "名称",
   "type": "Type",
-  "description": "描述",
-  "delete-content-patch": "删除内容补丁",
-  "no-content-patch": "未找到内容补丁",
-  "content-patches": "内容补丁",
-  "upload-content-patch": "上传内容补丁"
+  "description": "描述"
 }

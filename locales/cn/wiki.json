@@ -6,13 +6,5 @@
   "path": "路径",
   "create-description": "创建新的 Wiki 页面",
   "edit-description": "编辑 Wiki 页面",
-  "delete-description": "删除此记录",
-  "create-wiki": "创建 Wiki 页面",
-  "wiki-pages": "Wiki 页面",
-  "wiki": "Wiki",
-  "no-wiki": "未找到 Wiki 页面",
-  "update-wiki": "更新 Wiki 页面",
-  "delete-wiki": "删除 Wiki 页面",
-  "author": "作者",
-  "created-at": "创建时间"
+  "delete-description": "删除此记录"
 }

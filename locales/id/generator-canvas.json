@@ -1,5 +1,5 @@
 {
-  "total-blocks": "Total",
+  "total-blocks": "Jumlah Total",
   "deselect-all": "Hapus Semua Pilihan",
   "height": "Tinggi",
   "copy": "Salin",
@@ -20,7 +20,7 @@
   "upload-image": "Unggah Gambar",
   "select-materials": "Pilih Bahan",
   "drag-image": "Tarik gambar ke sini atau klik",
-  "dithering": "Dithering",
+  "dithering": "Penyebaran Titik (Dithering)",
   "block-size": "Ukuran Blok",
   "settings": "Pengaturan",
   "image-preview": "Pratinjau gambar",

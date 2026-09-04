@@ -7,14 +7,5 @@
   "delete": "Hapus peta",
   "error-empty-file": "Berkas kosong",
   "upload-success": "Unggah berhasil",
-  "error-invalid-file-extension": "Ekstensi berkas tidak valid",
-  "description": "Deskripsi",
-  "create-map": "Buat peta",
-  "delete-map": "Hapus peta",
-  "update-map": "Perbarui peta",
-  "no-map": "Tidak ada peta",
-  "maps": "Peta",
-  "width": "Lebar",
-  "height": "Tinggi",
-  "unverify-map": "Batal verifikasi peta"
+  "error-invalid-file-extension": "Ekstensi berkas tidak valid"
 }

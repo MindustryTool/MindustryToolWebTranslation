@@ -10,17 +10,5 @@
   "requirements": "Вимоги",
   "power-production": "Виробництво енергії",
   "error-clipboard-read": "Помилка читання буфера обміну, дозвольте доступ да буфера обміну",
-  "error-empty-file": "Порожній файл",
-  "schematics": "Схеми",
-  "create-schematic": "Створити схему",
-  "delete-schematic": "Видалити схему",
-  "update-schematic": "Оновити схему",
-  "no-schematic": "Схеми не знайдено",
-  "tags": "Теги",
-  "author": "Автор",
-  "created-at": "Створено",
-  "updated-at": "Оновлено",
-  "description": "Опис",
-  "unverify-schematic": "Скасувати перевірку схеми",
-  "verify-schematic": "Перевірити схему"
+  "error-empty-file": "Порожній файл"
 }

@@ -1,8 +1,5 @@
 {
-  "tag": "Tag",
+  "tag": "Such-Tag",
   "author": "Autor",
-  "name": "Name",
-  "place-holder": "Suchen...",
-  "all": "Alle",
-  "clear": "Löschen"
+  "name": "Objektname"
 }
