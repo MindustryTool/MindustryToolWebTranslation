@@ -7,5 +7,22 @@
   "delete": "Hapus peta",
   "error-empty-file": "Berkas kosong",
   "upload-success": "Unggah berhasil",
-  "error-invalid-file-extension": "Ekstensi berkas tidak valid"
+  "error-invalid-file-extension": "Ekstensi berkas tidak valid",
+  "analyzing": "Menganalisis file peta",
+  "rendering-sector": "Merender terrain sektor dan membaca metadata...",
+  "failed-to-parse": "Gagal menganalisis peta",
+  "failed-to-generate-image": "Gagal membuat pratinjau peta",
+  "rendering": "Merender peta...",
+  "drop-here": "Letakkan file peta di sini",
+  "msav-supported": "Mendukung peta sektor dan file penyimpanan Mindustry (",
+  "author": "Penulis:",
+  "edit-map-name": "Edit Nama Peta",
+  "enter-map-name": "Masukkan nama peta...",
+  "edit-name": "Edit nama",
+  "edit-map-description": "Edit Deskripsi Peta",
+  "enter-map-description": "Masukkan deskripsi peta...",
+  "edit-description": "Edit deskripsi",
+  "loading": "Memuat peta",
+  "fetching-map": "Merender terrain sektor dan membaca metadata...",
+  "failed-to-load": "Gagal memuat peta"
 }
