@@ -93,5 +93,12 @@
   "no-recent-players-desc": "No players have joined this server in the last 30 minutes.",
   "no-kicked-ips": "No kicked IPs",
   "no-kicked-ips-desc": "There are currently no active IP kicks on this server.",
-  "remove-kick": "Remove Kick"
+  "remove-kick": "Remove Kick",
+  "seconds": "Seconds",
+  "minutes": "Minutes",
+  "hours": "Hours",
+  "days": "Days",
+  "weeks": "Weeks",
+  "console-execution": "Console Execution",
+  "manage": "Manage"
 }

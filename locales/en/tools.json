@@ -25,5 +25,15 @@
   "width": "Width",
   "toast-download-started": "Download started!",
   "toast-copied": "Copied '{{filename}}' to clipboard!",
-  "reset": "Reset"
+  "reset": "Reset",
+  "files": "Files",
+  "screen": "Screen",
+  "grid": "Grid",
+  "processors": "Processors",
+  "instructions": "Instructions",
+  "materials": "Materials",
+  "split": "Split",
+  "algorithm": "Algorithm",
+  "strength": "Strength",
+  "lab-color-space": "LAB Color Space"
 }
